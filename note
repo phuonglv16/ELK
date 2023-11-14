@@ -1,0 +1,6 @@
+1.Các nội dung có trong khóa học:
+- Sử dụng Docker, Kubernetes
+- Tự động triển khai CI/CD với Jenkins
+- Quản lý cài đặt cấu hình với Ansible
+- Giám sát hoạt động hệ thống với Prometheus – Grafana và Jaeger
+- Nguyên tắc cơ bản của Linux và scripting
